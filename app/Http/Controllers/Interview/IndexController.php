@@ -71,7 +71,7 @@ class IndexController extends Controller
             return "<script>alert('添加面试信息有误');history.go(-1);</script>";die;
         }
     }
-
+    
     /**
      * 用户的面试详情列表
      */
